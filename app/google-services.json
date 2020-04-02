@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "189064025550",
+    "firebase_url": "https://imagenesfirebase-42e92.firebaseio.com",
+    "project_id": "imagenesfirebase-42e92",
+    "storage_bucket": "imagenesfirebase-42e92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189064025550:android:e32e9e2e2fe08d116f079f",
+        "android_client_info": {
+          "package_name": "com.example.imagenesfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189064025550-i4cun6eptln59b8mqtak1ejjhi1e4eaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imagenesfirebase",
+            "certificate_hash": "6f354395733d5ec40b7ffc7a7b8f235c1583d8d8"
+          }
+        },
+        {
+          "client_id": "189064025550-oj4u3elfjbcnk1mjn5mm352s5t71lnt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ-YXrG8fUavHO5dE1WfJs2JxlAuYLduw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189064025550-oj4u3elfjbcnk1mjn5mm352s5t71lnt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
